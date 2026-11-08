@@ -509,10 +509,10 @@ Quiz와 QuizGame 클래스를 분리하여 객체 지향 프로그래밍의 기�
 - 과정: 개발 입문
 - 학습시간: 40시간
 - 과제명: 컴퓨터에게 명령 내리는 말(파이썬) 처음 배우기
-- GitHub Repository: [저장소 주소 입력]
-- Python Version: [실제 버전 입력]
-- 작성자: [이름 또는 닉네임]
-- 제출일: [실제 날짜 입력]
+- GitHub Repository: [https://github.com/cym90/pythonaviationquizgamerepublic]
+- Python Version: [ Python 3.15.2]
+- 작성자: [cym90]
+- 제출일: [2026.11.08]
 
 ---
 
@@ -537,4 +537,4 @@ Quiz와 QuizGame 클래스를 분리하여 객체 지향 프로그래밍의 기�
 - [ ] 실행 결과 스크린샷
 - [ ] GitHub 최종 업로드
 
-**GitHub Repository:** [본인 저장소 주소]
+**GitHub Repository:** [https://github.com/cym90/pythonaviationquizgamerepublic)]
