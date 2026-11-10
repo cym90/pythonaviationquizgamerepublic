@@ -74,9 +74,9 @@ git --version
 
 실제 설치 버전:
 
-- Python: [실제 버전 입력]
-- Git: [실제 버전 입력]
-- VS Code: [실제 버전 입력]
+- Python: [3.15.2]
+- Git: [2.56.0]
+- VS Code: [1.145]
 
 ---
 
