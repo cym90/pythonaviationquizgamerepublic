@@ -262,7 +262,7 @@ Python 3.10 이상을 사용한다.
 ### 9-2. GitHub 프로젝트 복제
 
 ```bash
-git clone https://github.com/본인계정/python-aviation-quiz-game.git
+git clone https://github.com/cym90/python-aviation-quiz-game.git
 ```
 
 ### 9-3. 프로젝트 디렉토리 이동
