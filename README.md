@@ -430,7 +430,7 @@ git log --oneline --graph --all
 GitHub 원격 저장소를 새로운 폴더에 복제한다.
 
 ```bash
-git clone https://github.com/본인계정/python-aviation-quiz-game.git
+git clone https://github.com/cym90/python-aviation-quiz-game.git
 ```
 
 ### README 수정
