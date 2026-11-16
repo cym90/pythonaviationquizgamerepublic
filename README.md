@@ -31,6 +31,7 @@
 ---
 
 ## 🚀 3. 실행 방법 (How to Run)
+<img width="473" height="428" alt="스크린샷 2026-11-16 085931" src="https://github.com/user-attachments/assets/d6a81d3b-743d-47fb-a06a-44d4d4e8bb05" />
 
 이 프로젝트는 별도의 서버 구축이나 패키지 설치 필요 없이 웹 브라우저만 있으면 실행할 수 있습니다.
 
